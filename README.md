@@ -1,5 +1,4 @@
-# Convolution arithmetic
-
+# Convolution arithmetic 卷积算法
 A technical report on convolution arithmetic in the context of deep learning.
 
 ## Convolution animations
